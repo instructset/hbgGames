@@ -1,1 +1,7 @@
-[]
+[
+  {
+    "slug": "memory-match",
+    "title": "Memory Match",
+    "description": "Flip cards, find the pairs. Three difficulty levels."
+  }
+]
