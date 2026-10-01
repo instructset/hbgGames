@@ -3,5 +3,10 @@
     "slug": "memory-match",
     "title": "Memory Match",
     "description": "Flip cards, find the pairs. Three difficulty levels."
+  },
+  {
+    "slug": "pacman-game",
+    "title": "Pac-Man Lite",
+    "description": "Classic maze chase with four ghosts and power pellets."
   }
 ]
